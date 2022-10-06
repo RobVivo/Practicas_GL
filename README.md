@@ -1,10 +1,9 @@
-# Seminarios_ISGI_2022
-## Código de los seminarios de OpenGL en ISGI/ETSINF/UPV
+# SOLUCIÓN PLANTILLA VSC++ PARA PROYECTOS DE ISGI/ETSINF/UPV
+## Clonar y usar en ámbitos docentes
 ### Objetivo
-Este repositorio sirve para:
+Este repositorio sirve como plantilla de una solución de visual studio para construir
+proyectos con OpenGL y GLUT.
 
-:one: Mantener el código que el profesor desarrolla en los seminarios  
-:two: Como plantilla de *solución VSC++*
 ### Instalación
 Para instalar, *clonar* el proyecto usando git en la consola (p.e. *bash*) sobre el directorio preferido:
 ```
