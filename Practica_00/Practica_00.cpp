@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	// Inicializaciones
 	glutInit(&argc, argv);							
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);	
-	glutInitWindowSize(500, 400);					
+	glutInitWindowSize(500, 500);					
 	glutInitWindowPosition(50, 50);
 
 	// Crear ventana
