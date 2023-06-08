@@ -1,4 +1,4 @@
-# SOLUCIÓN PLANTILLA VSC++ PARA PROYECTOS DE ISGI/ETSINF/UPV
+# SOLUCIÓN PLANTILLA VSC++ PARA PROYECTOS DE ETSINF/UPV
 
 ## Copia y uso en ámbitos docentes
 
@@ -11,13 +11,15 @@ Este repositorio sirve como plantilla de una solución de Visual Studio para con
 Para instalar, hay que *clonar* el proyecto usando *git* en la consola (p.e. *bash*) sobre el directorio preferido:
 ```
 $ cd $USER/source/repos   
-$ git clone -b main --recursive https://github.com/RobVivo/Pracicas_ISGI
+$ git clone -b main --recursive https://github.com/RobVivo/Practicas_GL.git Practicas
 ```
 
 ### Uso
 
 :one: Encaminar la carga de bibliotecas dinámicas `*.dll` a `codebase\bin` en la variable de entorno *path* de la cuenta del usuario  
-:two: Abrir Visual Studio y cargar la solución Practicas_ISGI.sln  
-:three: Crear un proyecto vacío, seleccionar la plataforma `Release|x86` y cargar la hoja de propiedades *GLPropertySheet.props*   
+:two: Abrir Visual Studio y cargar la solución Practicas_GL.sln  
+:three: Crear un proyecto vacío, seleccionar la plataforma `Release|x86` y cargar la hoja de propiedades *codebase/OpenGLx86.props*   
 
 La solución incluye un proyecto *Practica_00* compilado de ejemplo que debe poder ejecutarse sin problemas si la instalación es correcta.
+
+*(c) Roberto Vivó, UPV, 2023* 
