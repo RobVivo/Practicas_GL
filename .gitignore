@@ -34,3 +34,11 @@
 
 # Visual
 .vs/*
+*.recipe
+*.iobj
+*.log
+*.tlog
+*.lastbuildstate
+*.lastbuildstate.bak
+./*/Release
+./*/Debug
