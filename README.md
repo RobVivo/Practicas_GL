@@ -16,7 +16,7 @@ $ git clone -b main --recursive https://github.com/RobVivo/Practicas_GL.git Prac
 
 ### Uso
 
-:one: Encaminar la carga de bibliotecas dinámicas `*.dll` a `codebase\bin` en la variable de entorno *path* de la cuenta del usuario  
+:one: Encaminar la carga de bibliotecas dinámicas `*.dll` a `codebase\bin\x86` en la variable de entorno *path* de la cuenta del usuario  
 :two: Abrir Visual Studio y cargar la solución Practicas_GL.sln  
 :three: Crear un proyecto vacío, seleccionar la plataforma `Release|x86` y cargar la hoja de propiedades *codebase/OpenGLx86.props*   
 
