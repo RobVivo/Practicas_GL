@@ -9,8 +9,9 @@
 ***************************************************/
 #define PROYECTO "Primer programa en OpenGL"
 
-#include <iostream>									
-#include <GL\freeglut.h>							
+#include <iostream>	
+#include <codebase.h>
+						
 
 // Funcion de atencion al evento de dibujo
 void display()
