@@ -20,6 +20,6 @@ $ git clone -b main --recursive https://github.com/RobVivo/Practicas_GL.git Prac
 :two: Abrir Visual Studio y cargar la solución Practicas_GL.sln  
 :three: Crear un proyecto vacío, seleccionar la plataforma `Release|x86` y cargar la hoja de propiedades *codebase/OpenGLx86.props*   
 
-La solución incluye un proyecto *Practica_00* compilado de ejemplo que debe poder ejecutarse sin problemas si la instalación es correcta.
+La solución incluye un proyecto *Primer_Proyecto* compilado de ejemplo que debe poder ejecutarse sin problemas si la instalación es correcta.
 
 *(c) Roberto Vivó, UPV, 2023* 
